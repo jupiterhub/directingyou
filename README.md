@@ -11,7 +11,7 @@ A service that helps you *find* what to do with your life and make it a reality
 * Stress Test -https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey
 * Browser Test - nightwatchjs.org
 * API Simualation - https://docs.hoverfly.io/en/latest/
-*
+* Test Spec - https://getgauge.io/
 * DDD - https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420
 * CQRS - https://msdn.microsoft.com/en-us/library/jj554200.aspx
 * Event Sourcing - https://msdn.microsoft.com/en-us/library/jj591559.aspx

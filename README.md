@@ -8,6 +8,7 @@ A service that helps you *find* what to do with your life and make it a reality
 * Continuous Delivery - https://www.gocd.org/ or https://travis-ci.org/ or https://jenkins.io or https://www.spinnaker.io/
 * Monitoring - https://grafana.com/ and https://github.com/Netflix/vizceral
 * Containerized - https://www.docker.com/what-container
+* Load Balancing - Ingress Virtual Hosting https://kubernetes.io/docs/concepts/services-networking/ingress/#name-based-virtual-hosting and https://cloud.google.com/compute/docs/load-balancing/ (HTTP over TCP, supports rewrites)
 * Stress Test -https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey
 * Browser Test - nightwatchjs.org
 * API Simualation - https://docs.hoverfly.io/en/latest/

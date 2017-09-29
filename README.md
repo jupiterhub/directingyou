@@ -6,6 +6,7 @@ A service that helps you *find* what to do with your life and make it a reality
 * HSTS - https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 * Converstatoinal Learning - https://api.ai/ and https://wit.ai/
 * Continuous Delivery - https://www.gocd.org/ or https://travis-ci.org/ or https://jenkins.io or https://www.spinnaker.io/
+* Deployment technique - Canary https://martinfowler.com/bliki/CanaryRelease.html
 * Monitoring - https://grafana.com/ and https://github.com/Netflix/vizceral
 * Containerized - https://www.docker.com/what-container
 * Load Balancing - Ingress Virtual Hosting https://kubernetes.io/docs/concepts/services-networking/ingress/#name-based-virtual-hosting and https://cloud.google.com/compute/docs/load-balancing/ (HTTP over TCP, supports rewrites)
